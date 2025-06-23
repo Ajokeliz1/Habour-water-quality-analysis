@@ -441,7 +441,7 @@ def main():
     
     # Footer
     st.markdown("---")
-    st.caption("Water Quality Analysis Dashboard | Data collected from Harbor Monitoring Stations | © 2023 Environmental Monitoring Group")
+    st.caption("Water Quality Analysis Dashboard | Data collected around Lagos Seaports | © 2021 Environmental Monitoring")
 
 if __name__ == "__main__":
     main()
