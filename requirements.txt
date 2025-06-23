@@ -9,3 +9,4 @@ scikit-learn==1.6.1
 geopandas==1.1.0
 shapely==2.1.1
 contextily==1.6.2
+statsmodels==0.14.4
