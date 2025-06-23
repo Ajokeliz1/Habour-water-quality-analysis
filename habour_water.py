@@ -13,6 +13,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import LeaveOneOut
 import contextily as ctx
+import statsmodels.api as sm
 
 # Load and clean data
 @st.cache_data
