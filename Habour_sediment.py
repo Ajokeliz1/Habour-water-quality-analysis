@@ -16,7 +16,7 @@ st.title("🌊 Harbor Sediment Analysis Dashboard")
 st.subheader("Comprehensive Analysis of Heavy Metals and Physiochemical Parameters")
 
 # File uploader
-uploaded_file = st.sidebar.file_uploader("Upload Excel File", type=["xlsx", "xls"])
+uploaded_file = st.sidebar.file_uploader("Upload Excel File", type=["xlsx", "xls", "csv"])
 
 # Load data
 @st.cache_data

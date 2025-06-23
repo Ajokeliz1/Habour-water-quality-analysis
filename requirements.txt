@@ -11,3 +11,4 @@ shapely==2.1.1
 contextily==1.6.2
 statsmodels==0.14.4
 scipy==1.15.2
+openpyxl==3.1.5
